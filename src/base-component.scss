@@ -1,0 +1,19 @@
+// Variables
+$welcomeTitleColor: blue;
+$welcomeTitleColorTab: green;
+
+// Styles
+.base-component {
+  h1 {
+    color: $welcomeTitleColor;
+  }
+}
+
+// Media queries
+@media only screen and (max-width: 768px) {
+  .base-component {
+    h1 {
+      color: $welcomeTitleColorTab;
+    }
+  }
+}

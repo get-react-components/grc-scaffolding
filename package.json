@@ -1,0 +1,26 @@
+{
+  "name": "grc-base-component",
+  "version": "0.0.1",
+  "description": "Serve as a base reference component to create new component",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get-react-components/grc-component.git"
+  },
+  "keywords": [
+    "getreactcomponent",
+    "get-react-component",
+    "react-component",
+    "react-bulma-component",
+    "base-component"
+  ],
+  "author": "Ashwin Hegde <ashwin.hegde3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/get-react-components/grc-component/issues"
+  },
+  "homepage": "https://github.com/get-react-components/grc-component#readme"
+}
