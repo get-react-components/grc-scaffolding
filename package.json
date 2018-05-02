@@ -1,26 +1,27 @@
 {
-  "name": "grc-base-component",
+  "name": "grc-scaffolding",
   "version": "0.0.1",
-  "description": "Serve as a base reference component to create new component",
+  "description": "A walk-through scaffolding of component to create new component",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/get-react-components/grc-component.git"
+    "url": "git+https://github.com/get-react-components/grc-scaffolding.git"
   },
   "keywords": [
     "getreactcomponent",
     "get-react-component",
     "react-component",
     "react-bulma-component",
-    "base-component"
+    "base-component",
+    "component-scaffolding"
   ],
   "author": "Ashwin Hegde <ashwin.hegde3@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/get-react-components/grc-component/issues"
+    "url": "https://github.com/get-react-components/grc-scaffolding/issues"
   },
-  "homepage": "https://github.com/get-react-components/grc-component#readme"
+  "homepage": "https://github.com/get-react-components/grc-scaffolding#readme"
 }
