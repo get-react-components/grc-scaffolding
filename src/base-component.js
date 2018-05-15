@@ -11,13 +11,13 @@ import './components.scss';
 /**
  * Import modules
  */
-import React, { Component } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 /**
  * Component class
  */
-class BaseComponent extends Component {
+class BaseComponent extends React.Component {
   render() {
     const welcomeText = this.props;
 
