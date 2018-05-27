@@ -6,7 +6,7 @@
 /**
  * Import styles
  */
-import './components.scss';
+import './BaseComponent.scss';
 
 /**
  * Import modules

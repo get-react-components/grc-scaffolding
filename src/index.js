@@ -1,7 +1,7 @@
 /**
  * @file component export entry point
  */
-import BaseComponent from './base-component';
+import BaseComponent from './BaseComponent';
 
 module.exports = {
   BaseComponent

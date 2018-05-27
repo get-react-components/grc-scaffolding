@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import BaseComponent from '../base-component';
+import BaseComponent from '../BaseComponent';
 
 test('Rendered BaseComponent', () => {
   const component = renderer.create(
